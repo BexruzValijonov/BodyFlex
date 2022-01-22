@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(248, 248, 245);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Navigation menu */
+.navbar{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.collapse ul li a{
+    font-weight: bold;
+    margin-left: 12px;
+}
+/* /Navigation menu */
+
+
+/* Showcase  */
+.showcase{
+    padding: 90px 0px 0px 0px;
+}
+
+.trainer{
+   background-color: rgb(113, 64, 247);
+   border-radius: 20% 5% 35% 5%;
+}
+/* /Showcase */
+
+
+
+/* Card */
+.choose input{
+    font-size: 13px;
+}
+
+.choose button{
+    padding: 0px 30px;
+}
+
+.choose{
+    margin-top: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19),
+    0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.build{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19),
+    0 6px 6px rgba(0, 0, 0, 0.23);
+}
+/* /Card */
+
+/* Build menu */
+.transform{
+    margin-top: 150px;
+}
+/* /Build menu */
+
+
+/* Workout */
+.video{
+    background-color: #8368FF;
+}
+
+
+
+.work{
+    margin-top: 10vw;
+}
+/* /Workout */
+
+/* Sign */
+.sign input{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19),
+    0 6px 6px rgba(0, 0, 0, 0.23);
+}
+/* /Sign */
+
+/* Footer */
+footer{
+    margin-top: 10rem;
+    background-color: rgb(113, 64, 247);
+}
+
+footer p{
+    color: #fff;
+    cursor: pointer;
+}
+
+footer p:hover{
+    color: rgb(214, 214, 24);
+}
+
+footer h4{
+    color: #fff;
+    cursor: pointer;
+}
+
+footer h4:hover{
+    color: rgb(214, 214, 24);
+}
+
+footer svg{
+   margin: 10px;
+   color: #fff;
+}
+
+
+/* /Footer */
